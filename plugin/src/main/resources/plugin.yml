@@ -1,0 +1,4 @@
+name: GrodnoBusPlugin
+version: 1.0
+main: org.example.MyPlugin
+api-version: 1.18
